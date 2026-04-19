@@ -1,4 +1,4 @@
-cd /home/adminvmss
+cd /home/adminuservmss
 cat > app.py << 'EOF'
 from flask import Flask, request, render_template_string
 import random
